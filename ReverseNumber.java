@@ -1,7 +1,7 @@
 package org.com;
 
 /**
- * Program to reverse an Integer
+ * Program to reverse an Integer..
  */
 public class ReverseNumber {
 
